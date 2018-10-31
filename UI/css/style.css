@@ -46,6 +46,11 @@ header nav {
 }
 #showcase {
   min-height: 400px;
-  background: url(../images/courrier2.jpg) no-repeat center;
+  background: url(../images/courriers.jpeg) no-repeat center;
   min-width: 100%S;
+  text-align: center;
+}
+#pic {
+  background: url(../images/courrier.jpg) no-repeat right;
+  float: right;
 }
