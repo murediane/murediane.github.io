@@ -50,7 +50,12 @@ header nav {
   min-width: 100%S;
   text-align: center;
 }
-#pic {
-  background: url(../images/courrier.jpg) no-repeat right;
-  float: right;
+
+.divider {
+  width: 5px;
+  height: auto;
+  display: inline;
+  padding: 2px;
+  color: blueviolet;
+  text-align: center;
 }
